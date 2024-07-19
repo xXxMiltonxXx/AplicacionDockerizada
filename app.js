@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Anthony Solórzano 
-// Mario Soriano
+// Anthony Macias 
+// Estefani España
+// Eduardo Lopez
+// Jorge Anchundia
 const express = require('express');
 const app = express();
 const port = 3000;
