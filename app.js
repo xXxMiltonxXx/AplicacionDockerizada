@@ -1,6 +1,6 @@
 // Nombre de integrantes:
-// Anthony Solórzano 
-// Mario Soriano
+// Aleejandro Bueno Peralta
+// Samandiego Leidy
 const express = require('express');
 const app = express();
 const port = 3000;
