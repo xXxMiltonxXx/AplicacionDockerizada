@@ -1,5 +1,8 @@
 // Nombre de integrantes:
-// Milton Angamarca
+// Eduardo Josue Lopez Lopez
+//Anthony Macias
+//Jorge Anchundia
+//
 
 const express = require('express');
 const app = express();
