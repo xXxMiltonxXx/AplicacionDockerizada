@@ -1,6 +1,6 @@
 // Nombre de integrantes:
-// Milton Angamarca
-
+// Anthony Solórzano 
+// Mario Soriano
 const express = require('express');
 const app = express();
 const port = 3000;
