@@ -1,6 +1,7 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Héctor Matias Fernández Catagua
+// Ilaria Michelle Salazar Rezabala
+// Zambrano Cevallos Madelyn Elisa
 const express = require('express');
 const app = express();
 const port = 3000;
