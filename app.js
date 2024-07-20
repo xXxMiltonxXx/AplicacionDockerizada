@@ -1,6 +1,7 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// José Manuel Castillo Loor
+// Gonzalo Gabriel Roca Cedeño 
+// Jaime Ivan Romero Coronel
 const express = require('express');
 const app = express();
 const port = 3000;
