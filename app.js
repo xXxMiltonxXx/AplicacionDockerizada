@@ -1,6 +1,9 @@
 // Nombre de integrantes:
 // Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Samandiego 
+
+
+//derlilopez/alay pedro/zambrano pedro/david cevallos/tubay muguerza
 const express = require('express');
 const app = express();
 const port = 3000;
