@@ -1,6 +1,9 @@
-// Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Sistemas operativos
+// Grupo 1
+// Paralelo "A"
+// Nombre de Integrantes:
+// Mero Franco Jorge Ruben
+// Chavez Garcia David Israel
 const express = require('express');
 const app = express();
 const port = 3000;
