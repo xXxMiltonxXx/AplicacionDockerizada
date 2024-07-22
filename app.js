@@ -1,5 +1,6 @@
 // Nombre de integrantes:
-// Milton Angamarca
+// Anthony Josue Solórzano Roldán 
+// Mario Andrés Soriano Gutiérrez
 
 const express = require('express');
 const app = express();
