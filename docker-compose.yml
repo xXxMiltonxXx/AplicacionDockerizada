@@ -3,7 +3,7 @@ version: '3.8'
 services:
   mongodb:
     image: mongo:4.4
-    container_name: mongodb
+    container_name: mongodb18
     ports:
       - "27017:27017"
     volumes:
@@ -11,7 +11,7 @@ services:
 
   app:
     build: .
-    container_name: node-app
+    container_name: node-app18
     ports:
       - "3000:3000"
     depends_on:

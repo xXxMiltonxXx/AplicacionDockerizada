@@ -1,6 +1,9 @@
+//Grupo 8 (Linux)
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Daiton Bernardo Campuzano Espinal
+// Braulio Aldair Alava Guiña
+// Freddy Wladimir De La Ese Davila
+// Jose Miguel Fuentes Cedeño
 const express = require('express');
 const app = express();
 const port = 3000;
