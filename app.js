@@ -1,6 +1,9 @@
+//Grupo 8
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Daiton Bernardo Campuzano Espinal
+//Braulio Aldair Alava Aguiña
+//Freddy Wladimir De La Ese Dávila
+//José Miguel Fuentes Cedeño
 const express = require('express');
 const app = express();
 const port = 3000;
