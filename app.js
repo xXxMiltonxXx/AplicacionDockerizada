@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// George Joseph Paredes Carrillo 
+// Jhon Luis Pilco Quiroz
+// Jandry Jahir Cedeño Mero
+// Justin Enrique Morales Bravo
 const express = require('express');
 const app = express();
 const port = 3000;
