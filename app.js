@@ -1,5 +1,9 @@
 // Nombre de integrantes:
-// Milton Angamarca
+// Grupo 12
+// Harvin Amin Cevallos Mera
+// Winter Manuel Povea Bravo
+// Steven Alexis Soledispa Espinales
+// Luis Antonio Litardo Hernandez
 
 const express = require('express');
 const app = express();
