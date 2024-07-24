@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Hector Fernandez
+// Michelle Salazar
+// Madelyn Elisa
+
 const express = require('express');
 const app = express();
 const port = 3000;
