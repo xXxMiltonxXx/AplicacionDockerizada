@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Braulio Aldair Álava Guiña
+// Daiton Bernardo Campuzano Espinal
+//Freddy Vladimir De La Ese Dávila
+// Jose Miguel Fuentes Cedeño
 const express = require('express');
 const app = express();
 const port = 3000;
