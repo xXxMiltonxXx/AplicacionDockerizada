@@ -1,6 +1,8 @@
-// Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// INTEGRANTES DEL GRUPO 10:
+// MELANIE ANCHUNDIA
+// CRISTINA CEDEÑO
+// DAIVELYN PINCAY 
+// KAREN ANCHUNDIA
 const express = require('express');
 const app = express();
 const port = 3000;
