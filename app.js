@@ -1,6 +1,9 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Anchundia Pillasagua Karen
+// Garcia Ordoñez Jostin
+// Moreira Garcia Marly 
+// Ponce Zambrano Mattias
+// Sornoza Moreira Danny
 const express = require('express');
 const app = express();
 const port = 3000;
