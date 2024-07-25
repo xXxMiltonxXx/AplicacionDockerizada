@@ -1,5 +1,9 @@
 // Nombre de integrantes:
-// Milton Angamarca
+//•	Bueno Peralta Alejandro
+//•	Leidy Tatiana Samaniego Santana
+//•	Solórzano Roldán Anthony Josue
+//•	Soriano Gutiérrez Mario Andrés
+
 
 const express = require('express');
 const app = express();
