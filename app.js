@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Zamora Oliver
+//Alenxader Ureta
+//Stiward Puerta
+//Paola Quijije
 const express = require('express');
 const app = express();
 const port = 3000;
