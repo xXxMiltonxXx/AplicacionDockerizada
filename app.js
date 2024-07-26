@@ -1,8 +1,8 @@
 /* Nombre de integrantes:
-Anthony Valencia Vélez
-Julio Tucker Bermúdez
+Anthony Valencia 
+Julio Tucker 
 Francisco Villon
-Issac Sornoza
+Isaac Sornoza
 */
 
 const express = require('express');
