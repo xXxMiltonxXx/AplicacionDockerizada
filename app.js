@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Andres Cobeña
+// Shirley Cedeño
+// Alejandra Salazar
+// Alejandro Estrella
 const express = require('express');
 const app = express();
 const port = 3000;
