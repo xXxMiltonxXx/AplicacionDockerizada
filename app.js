@@ -1,6 +1,10 @@
-// Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+/* Nombre de integrantes:
+Anthony Valencia Vélez
+Julio Tucker Bermúdez
+Francisco Villon
+Issac Sornoza
+*/
+
 const express = require('express');
 const app = express();
 const port = 3000;
