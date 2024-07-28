@@ -1,6 +1,5 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Prueba Informe
 const express = require('express');
 const app = express();
 const port = 3000;
